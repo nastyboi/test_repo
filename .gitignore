@@ -1,0 +1,5 @@
+
+tempfile.txt
+*.zip
+*.gz
+!./test/test/*.txt
