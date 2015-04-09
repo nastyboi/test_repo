@@ -1,4 +1,4 @@
-/p top edit/p
+/p top edit /p
 
 renaming
 
